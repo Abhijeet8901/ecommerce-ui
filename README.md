@@ -10,18 +10,6 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 
 ## Server
 ###### spring boot: https://github.com/Abhijeet8901/ecommerce-server
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Screenshots](#screenshots)
 
 ## Features
 
