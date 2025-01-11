@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-const DEPLOYED='https://16.51.166.61' 
+const DEPLOYED='http://16.51.166.61' 
 
 const LOCALHOST='http://localhost:5454'
 
