@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-const DEPLOYED='https://ecommerce-server-production-d208.up.railway.app'
+const DEPLOYED='https://16.51.166.61' 
 
 const LOCALHOST='http://localhost:5454'
 
