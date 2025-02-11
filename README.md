@@ -22,7 +22,7 @@ A full-stack eCommerce application built with React and Spring Boot And Node Js.
 
 ## Demo
 
-[shopwithabhi](https://shopwithabhi.vercel.app/)
+[shopwithabhi](http://shopwithabhi.com.s3-website.ap-southeast-4.amazonaws.com/)
 
 ## Technologies Used
 
